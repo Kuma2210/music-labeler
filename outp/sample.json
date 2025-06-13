@@ -1,0 +1,62 @@
+[
+    {
+        "start_time": "00:00",
+        "end_time": "00:09",
+        "label": "intro"
+    },
+    {
+        "start_time": "00:09",
+        "end_time": "00:29",
+        "label": "verse"
+    },
+    {
+        "start_time": "00:29",
+        "end_time": "00:40",
+        "label": "chorus"
+    },
+    {
+        "start_time": "00:40",
+        "end_time": "00:53",
+        "label": "instrumental"
+    },
+    {
+        "start_time": "00:53",
+        "end_time": "01:09",
+        "label": "verse"
+    },
+    {
+        "start_time": "01:09",
+        "end_time": "01:26",
+        "label": "chorus"
+    },
+    {
+        "start_time": "01:26",
+        "end_time": "01:38",
+        "label": "verse"
+    },
+    {
+        "start_time": "01:38",
+        "end_time": "01:49",
+        "label": "instrumental"
+    },
+    {
+        "start_time": "01:49",
+        "end_time": "02:08",
+        "label": "verse"
+    },
+    {
+        "start_time": "02:08",
+        "end_time": "02:29",
+        "label": "verse"
+    },
+    {
+        "start_time": "02:29",
+        "end_time": "02:49",
+        "label": "chorus"
+    },
+    {
+        "start_time": "02:49",
+        "end_time": "02:52",
+        "label": "outro"
+    }
+]
