@@ -41,7 +41,7 @@ def transcribe_music_structure(file_path: str) -> str | None:
     print(f"[🔍] 正在处理: {file_path}")
 
     audio_base64 = encode_audio_to_base64(file_path)
-    prompt = PROMPT_TEMPLATE.format(audio_base64=audio_base64)
+    prompt = PROMPT.format(audio_base64=audio_base64)
 
     request_body = {
         "contents": [
